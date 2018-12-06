@@ -21,6 +21,6 @@ npm run build
 ### 佈署 & 資料庫
 - Firebase
 ### 使用套件
-- Vuex 管理vue使用資料
+- Vuex 管理Vue使用資料
 - Highlight.js 程式碼高亮
 - Markdown-it 翻譯Markdown語言
