@@ -1,18 +1,6 @@
 # [Steak Edit](https://steakedit.firebaseapp.com/)
 模仿 [Stackedit](https://stackedit.io/app) 提供的線上編輯Markdown筆記功能。
 
-## 執行專案
-```bash
-# 安裝套件
-npm install
-
-# 開發模式編譯 (須先取得firebase專案credential)
-npm run dev
-
-# 生產模式編譯
-npm run build
-```
-
 ## 開發工具
 ### 前端
 - Vue 前端框架
